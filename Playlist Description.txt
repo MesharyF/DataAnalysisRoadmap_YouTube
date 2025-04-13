@@ -1,0 +1,12 @@
+Bootcamp to Learn Data Analysis [Zero to Hero]
+
+Core Skills:
+Data Analysis Fundemantals
+Statistics
+Data Analyst Mindset
+
+Tool Skills:
+Excel
+SQL
+Power BI
+Python
